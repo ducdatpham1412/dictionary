@@ -1,0 +1,17 @@
+Hello	Xin chào
+Thank you	C?m ?n
+Cat	Mèo
+Dog	Chó
+Mouse	Chu?t
+Mom	M?
+Dad	B?
+Computer	Máy tính
+Sister	Em gái
+Forest	R?ng
+Library	Th? vi?n
+Vietnam	Vi?t Nam
+Dictionary	T? ?i?n
+Air	Không khí
+Room	Phòng
+How	Th? nào
+	
